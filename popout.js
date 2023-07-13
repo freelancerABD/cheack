@@ -4,19 +4,15 @@ function openModalWindow() {
 	        <html>
 	          <head>
 	            <title>Lexmate's YPP Web Tools</title>
-	<link rel="icon" type="image/x-icon" href="/favicon.ico">
-	<link href='//fonts.googleapis.com/css?family=Source+Sans+Pro:200,300,400,200italic,300italic,400italic' rel='stylesheet' type='text/css'>
-	<link rel="stylesheet" type="text/css" href="normalize.css">
-	<link rel="stylesheet" type="text/css" href="style.css">
-	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-	<script type="text/javascript"  src="../js/prefixfree.min.js"></script>
-	<script type="text/javascript"  src="../js/less.min.js"></script>
-	<script>
-		const script = document.createElement('script');
-script.src = '//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js';
-document.head.appendChild(script);
-	</script>
-
+				<link rel="icon" type="image/x-icon" href="/favicon.ico">
+			
+				<link rel="stylesheet" type="text/css" href="normalize.css">
+				<link rel="stylesheet" type="text/css" href="style.css">
+				
+				<script type="text/javascript"  src="js/prefixfree.min.js"></script>
+				<script type="text/javascript"  src="js/less.min.js"></script>
+				<script type="text/javascript" src="jquery.js"></script>
+				<script>
 		$(document).ready(function(){
 
 			//DAMAGE COUNTER
