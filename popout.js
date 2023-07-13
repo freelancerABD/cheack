@@ -9,8 +9,8 @@ function openModalWindow() {
 	<link rel="stylesheet" type="text/css" href="normalize.css">
 	<link rel="stylesheet" type="text/css" href="style.css">
 	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
-	<script type="text/javascript"  src="../js/prefixfree.min.js"></script>
-	<script type="text/javascript"  src="../js/less.min.js"></script>
+	<script type="text/javascript"  src="js/prefixfree.min.js"></script>
+	<script type="text/javascript"  src="js/less.min.js"></script>
 	<script type="text/javascript" src="//ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
 	<script>
 		$(document).ready(function(){
